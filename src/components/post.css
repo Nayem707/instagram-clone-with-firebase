@@ -1,0 +1,27 @@
+.post {
+    background-color: azure;
+    max-width: 500px;
+    border: 1px solid lightgray;
+    margin: 20px 10px;
+    justify-content: center;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.post-avater {
+    margin-right: 10px;
+}
+
+.user-img {
+    object-fit: contain;
+    width: 100%;
+}
+
+.avatar-group {
+    margin-bottom: 10px;
+
+}
